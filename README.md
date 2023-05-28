@@ -5,6 +5,6 @@ Here is the Simple Static HTML CSS page with Basic Video background and Responsi
 HTML5 
 CSS3 
 
-## Feautures
+## Features
 Simple 
 Integrating SSO (Google)
